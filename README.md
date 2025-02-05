@@ -1,0 +1,2 @@
+# Exoplanet Exploration Through Data Mining
+ Human interest in space exploration often takes root at a young age, when many children say they want to be astronauts when they grow up. At least, until they see Ridley Scott’s Alien (1986) and decide maybe it’s better to not. The inspiration for this project comes from a similarly rooted childhood wonder towards the stars, further fuelled by BioWare’s Mass Effect series.
